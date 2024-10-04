@@ -1,0 +1,502 @@
+[
+   {
+      "type": "Aestroid",
+      "des": "2024 GA6",
+      "fullname": "(2024 GA6)",
+      "size": 18.2,
+      "radius": 7.675,
+      "speed": 11.665,
+      "timetaken": 362,
+      "distance": 11888639.999999998
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 EC3",
+      "fullname": "(2024 EC3)",
+      "size": 10.8,
+      "radius": 4.575,
+      "speed": 8.873,
+      "timetaken": 354,
+      "distance": 14627520.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 EK3",
+      "fullname": "(2024 EK3)",
+      "size": 9.3,
+      "radius": 3.95,
+      "speed": 11.887,
+      "timetaken": 194,
+      "distance": 8140089.6
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 FB",
+      "fullname": "(2024 FB)",
+      "size": 39.0,
+      "radius": 16.5,
+      "speed": 8.774,
+      "timetaken": 378,
+      "distance": 131820480.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 EL",
+      "fullname": "(2024 EL)",
+      "size": 51.0,
+      "radius": 21.5,
+      "speed": 10.577,
+      "timetaken": 378,
+      "distance": 173940912.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 EF",
+      "fullname": "(2024 EF)",
+      "size": 8.6,
+      "radius": 3.65,
+      "speed": 8.652,
+      "timetaken": 354,
+      "distance": 16662240.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 NJ3",
+      "fullname": "(2024 NJ3)",
+      "size": 23.8,
+      "radius": 10.075,
+      "speed": 7.621,
+      "timetaken": 370,
+      "distance": 27418176.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 AB4",
+      "fullname": "(2024 AB4)",
+      "size": 35.0,
+      "radius": 14.75,
+      "speed": 5.955,
+      "timetaken": 410,
+      "distance": 7832246.399999999
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 AQ3",
+      "fullname": "(2024 AQ3)",
+      "size": 29.0,
+      "radius": 12.25,
+      "speed": 6.197,
+      "timetaken": 338,
+      "distance": 18098640.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 AP2",
+      "fullname": "(2024 AP2)",
+      "size": 67.0,
+      "radius": 28.25,
+      "speed": 6.507,
+      "timetaken": 370,
+      "distance": 22435056.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 AR1",
+      "fullname": "(2024 AR1)",
+      "size": 35.0,
+      "radius": 14.75,
+      "speed": 7.48,
+      "timetaken": 354,
+      "distance": 8380800.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 AE1",
+      "fullname": "(2024 AE1)",
+      "size": 20.2,
+      "radius": 8.55,
+      "speed": 7.89,
+      "timetaken": 378,
+      "distance": 4678560.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 QU",
+      "fullname": "(2024 QU)",
+      "size": 59.0,
+      "radius": 25.0,
+      "speed": 10.791,
+      "timetaken": 202,
+      "distance": 27615168.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 AH4",
+      "fullname": "(2024 AH4)",
+      "size": 42.0,
+      "radius": 17.75,
+      "speed": 11.223,
+      "timetaken": 354,
+      "distance": 18712425.599999998
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 PO3",
+      "fullname": "(2024 PO3)",
+      "size": 18.9,
+      "radius": 7.975,
+      "speed": 10.526,
+      "timetaken": 354,
+      "distance": 14623200.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 HZ",
+      "fullname": "(2024 HZ)",
+      "size": 10.2,
+      "radius": 4.3,
+      "speed": 7.202,
+      "timetaken": 378,
+      "distance": 56293833.599999994
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 EB",
+      "fullname": "(2024 EB)",
+      "size": 36.0,
+      "radius": 15.25,
+      "speed": 8.552,
+      "timetaken": 362,
+      "distance": 10812960.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 TE",
+      "fullname": "(2024 TE)",
+      "size": 20.9,
+      "radius": 8.85,
+      "speed": 9.853,
+      "timetaken": 186,
+      "distance": 5873731.2
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 RO43",
+      "fullname": "(2024 RO43)",
+      "size": 64.0,
+      "radius": 27.0,
+      "speed": 11.007,
+      "timetaken": 362,
+      "distance": 49261737.6
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 BF",
+      "fullname": "(2024 BF)",
+      "size": 74.5,
+      "radius": 31.5,
+      "speed": 4.546,
+      "timetaken": 362,
+      "distance": 12122438.4
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 CP",
+      "fullname": "(2024 CP)",
+      "size": 52.5,
+      "radius": 22.25,
+      "speed": 8.176,
+      "timetaken": 378,
+      "distance": 19177171.2
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 BN3",
+      "fullname": "(2024 BN3)",
+      "size": 18.1,
+      "radius": 7.65,
+      "speed": 10.233,
+      "timetaken": 362,
+      "distance": 76168339.2
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 AF3",
+      "fullname": "(2024 AF3)",
+      "size": 23.1,
+      "radius": 9.775,
+      "speed": 11.812,
+      "timetaken": 410,
+      "distance": 20173968.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 SJ",
+      "fullname": "(2024 SJ)",
+      "size": 46.0,
+      "radius": 19.5,
+      "speed": 11.661,
+      "timetaken": 370,
+      "distance": 108168307.2
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 OR1",
+      "fullname": "(2024 OR1)",
+      "size": 55.0,
+      "radius": 23.25,
+      "speed": 11.811,
+      "timetaken": 346,
+      "distance": 21934281.599999998
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 OG",
+      "fullname": "(2024 OG)",
+      "size": 45.5,
+      "radius": 19.25,
+      "speed": 10.894,
+      "timetaken": 362,
+      "distance": 13205980.8
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 JK1",
+      "fullname": "(2024 JK1)",
+      "size": 29.0,
+      "radius": 12.25,
+      "speed": 9.688,
+      "timetaken": 386,
+      "distance": 145025164.79999998
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 QJ",
+      "fullname": "(2024 QJ)",
+      "size": 22.5,
+      "radius": 9.5,
+      "speed": 7.656,
+      "timetaken": 378,
+      "distance": 4380480.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 QE2",
+      "fullname": "(2024 QE2)",
+      "size": 18.1,
+      "radius": 7.65,
+      "speed": 11.366,
+      "timetaken": 362,
+      "distance": 17226950.4
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 QT1",
+      "fullname": "(2024 QT1)",
+      "size": 16.6,
+      "radius": 7.025,
+      "speed": 9.326,
+      "timetaken": 370,
+      "distance": 124897680.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 GL1",
+      "fullname": "(2024 GL1)",
+      "size": 45.0,
+      "radius": 19.0,
+      "speed": 5.081,
+      "timetaken": 362,
+      "distance": 26763264.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 OA1",
+      "fullname": "(2024 OA1)",
+      "size": 60.5,
+      "radius": 25.5,
+      "speed": 9.837,
+      "timetaken": 370,
+      "distance": 70715980.8
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 JD1",
+      "fullname": "(2024 JD1)",
+      "size": 42.0,
+      "radius": 17.75,
+      "speed": 8.226,
+      "timetaken": 370,
+      "distance": 18331920.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 KC",
+      "fullname": "(2024 KC)",
+      "size": 11.5,
+      "radius": 4.875,
+      "speed": 8.596,
+      "timetaken": 370,
+      "distance": 4294771.2
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 MB2",
+      "fullname": "(2024 MB2)",
+      "size": 123.0,
+      "radius": 52.0,
+      "speed": 11.847,
+      "timetaken": 362,
+      "distance": 158361609.6
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 BT3",
+      "fullname": "(2024 BT3)",
+      "size": 23.1,
+      "radius": 9.775,
+      "speed": 11.861,
+      "timetaken": 386,
+      "distance": 13449110.399999999
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 BY15",
+      "fullname": "(2024 BY15)",
+      "size": 25.4,
+      "radius": 10.725,
+      "speed": 3.883,
+      "timetaken": 450,
+      "distance": 5380214.399999999
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 CC7",
+      "fullname": "(2024 CC7)",
+      "size": 30.3,
+      "radius": 12.825,
+      "speed": 7.613,
+      "timetaken": 378,
+      "distance": 49805280.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 BH",
+      "fullname": "(2024 BH)",
+      "size": 127.5,
+      "radius": 54.0,
+      "speed": 10.871,
+      "timetaken": 378,
+      "distance": 44423510.4
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 BJ",
+      "fullname": "(2024 BJ)",
+      "size": 31.5,
+      "radius": 13.25,
+      "speed": 9.654,
+      "timetaken": 186,
+      "distance": 7129555.2
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 KJ",
+      "fullname": "(2024 KJ)",
+      "size": 39.0,
+      "radius": 16.5,
+      "speed": 9.026,
+      "timetaken": 362,
+      "distance": 8288438.4
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 KX",
+      "fullname": "(2024 KX)",
+      "size": 16.6,
+      "radius": 7.025,
+      "speed": 10.096,
+      "timetaken": 370,
+      "distance": 123664233.6
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 JR16",
+      "fullname": "(2024 JR16)",
+      "size": 248.5,
+      "radius": 105.0,
+      "speed": 11.752,
+      "timetaken": 450,
+      "distance": 51634195.2
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 KF",
+      "fullname": "(2024 KF)",
+      "size": 127.0,
+      "radius": 53.75,
+      "speed": 10.094,
+      "timetaken": 362,
+      "distance": 29241475.2
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 CC1",
+      "fullname": "(2024 CC1)",
+      "size": 73.5,
+      "radius": 31.0,
+      "speed": 11.651,
+      "timetaken": 378,
+      "distance": 22737456.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 PD4",
+      "fullname": "(2024 PD4)",
+      "size": 20.2,
+      "radius": 8.55,
+      "speed": 4.588,
+      "timetaken": 394,
+      "distance": 3915820.8
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 PK3",
+      "fullname": "(2024 PK3)",
+      "size": 26.0,
+      "radius": 11.0,
+      "speed": 7.508,
+      "timetaken": 354,
+      "distance": 11560320.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 LR5",
+      "fullname": "(2024 LR5)",
+      "size": 12.2,
+      "radius": 5.175,
+      "speed": 10.262,
+      "timetaken": 370,
+      "distance": 9508320.0
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 LU1",
+      "fullname": "(2024 LU1)",
+      "size": 36.0,
+      "radius": 15.25,
+      "speed": 11.25,
+      "timetaken": 330,
+      "distance": 19413820.8
+   },
+   {
+      "type": "Aestroid",
+      "des": "2024 KT1",
+      "fullname": "(2024 KT1)",
+      "size": 22.5,
+      "radius": 9.5,
+      "speed": 6.965,
+      "timetaken": 450,
+      "distance": 51483254.4
+   }
+]
