@@ -21,7 +21,6 @@ def hello_world():
 @app.route("/get")
 def get_info():
     with urlopen("https://ssd-api.jpl.nasa.gov/nhats.api") as response:
-        print(1)
         source=response.read()
     data=json.loads(source)    
     dict_info=dict()
